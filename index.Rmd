@@ -1,0 +1,17 @@
+---
+title: "pth_website"
+author: "Peter"
+date: "2/13/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### Peter Hyde 
+#### Eric Teplitz
+
+![#### Pollination](C:\Users\pth7\Desktop\github\assignment-3-pth7\Picture1.jpg)
+
+

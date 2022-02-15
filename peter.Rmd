@@ -1,0 +1,22 @@
+---
+title: "Peter"
+author: ""
+date: "2/13/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+* Lifelong gardener
+  + Plant Vegetables
+  + Have a small orchard
+  + Keep bees
+* Winter sports enthusiast
+  + Pond Hockey
+  + Cross Country skiing
+* Enjoy woodworking
+  
+  
+![Pollination](C:\Users\pth7\Desktop\github\assignment-3-pth7)
