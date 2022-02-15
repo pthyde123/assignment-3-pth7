@@ -19,4 +19,3 @@ knitr::opts_chunk$set(echo = TRUE)
 * Enjoy woodworking
   
   
-![Pollination](C:\Users\pth7\Desktop\github\assignment-3-pth7)
