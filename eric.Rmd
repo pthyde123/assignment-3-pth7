@@ -1,0 +1,15 @@
+---
+title: "Eric"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Information about Eric**
+
+- livestock veterinarian and epidemiologist
+- interested in public health
+- currently enrolled in Biological & Biomedical Sciences PhD Program
+- enjoys outdoor sports
